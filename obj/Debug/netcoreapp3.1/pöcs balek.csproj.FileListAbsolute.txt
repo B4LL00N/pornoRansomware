@@ -1,0 +1,18 @@
+C:\Users\starr\Desktop\pöcs balek\pöcs balek\bin\Debug\netcoreapp3.1\pöcs balek.exe
+C:\Users\starr\Desktop\pöcs balek\pöcs balek\bin\Debug\netcoreapp3.1\pöcs balek.deps.json
+C:\Users\starr\Desktop\pöcs balek\pöcs balek\bin\Debug\netcoreapp3.1\pöcs balek.runtimeconfig.json
+C:\Users\starr\Desktop\pöcs balek\pöcs balek\bin\Debug\netcoreapp3.1\pöcs balek.runtimeconfig.dev.json
+C:\Users\starr\Desktop\pöcs balek\pöcs balek\bin\Debug\netcoreapp3.1\pöcs balek.dll
+C:\Users\starr\Desktop\pöcs balek\pöcs balek\bin\Debug\netcoreapp3.1\pöcs balek.pdb
+C:\Users\starr\Desktop\pöcs balek\pöcs balek\obj\Debug\netcoreapp3.1\pöcs balek.csprojAssemblyReference.cache
+C:\Users\starr\Desktop\pöcs balek\pöcs balek\obj\Debug\netcoreapp3.1\pöcs balek.csproj.GenerateResource.cache
+C:\Users\starr\Desktop\pöcs balek\pöcs balek\obj\Debug\netcoreapp3.1\pöcs balek.AssemblyInfoInputs.cache
+C:\Users\starr\Desktop\pöcs balek\pöcs balek\obj\Debug\netcoreapp3.1\pöcs balek.AssemblyInfo.cs
+C:\Users\starr\Desktop\pöcs balek\pöcs balek\obj\Debug\netcoreapp3.1\pöcs balek.csproj.CoreCompileInputs.cache
+C:\Users\starr\Desktop\pöcs balek\pöcs balek\obj\Debug\netcoreapp3.1\pöcs balek.dll
+C:\Users\starr\Desktop\pöcs balek\pöcs balek\obj\Debug\netcoreapp3.1\pöcs balek.pdb
+C:\Users\starr\Desktop\pöcs balek\pöcs balek\obj\Debug\netcoreapp3.1\pöcs balek.genruntimeconfig.cache
+C:\Users\starr\Desktop\pöcs balek\pöcs balek\obj\Debug\netcoreapp3.1\pöcs_balek.warning.resources
+C:\Users\starr\Desktop\pöcs balek\pöcs balek\obj\Debug\netcoreapp3.1\pöcs_balek.backgroundWorker.resources
+C:\Users\starr\Desktop\pöcs balek\pöcs balek\obj\Debug\netcoreapp3.1\pöcs_balek.visualPayload.resources
+C:\Users\starr\Desktop\pöcs balek\pöcs balek\obj\Debug\netcoreapp3.1\pöcs_balek.Properties.Resources.resources

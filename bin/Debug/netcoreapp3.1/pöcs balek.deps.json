@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pöcs balek/4.2.0": {
+        "runtime": {
+          "pöcs balek.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pöcs balek/4.2.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
